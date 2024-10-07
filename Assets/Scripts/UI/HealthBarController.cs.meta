@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 654ffca57bfa7cc4cb5fe219e862118a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarTransform: {instanceID: 0}
+  - positiveStrengthSprite: {fileID: 21300000, guid: 810448b82870c45058f8b2de5423274a, type: 3}
+  - negtiveStrengthSprite: {fileID: 21300000, guid: a34550cedb3234dc085a67e7fb9bf5c8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

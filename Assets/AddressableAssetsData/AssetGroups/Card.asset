@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Card
+  m_EditorClassIdentifier: 
+  m_GroupName: Card
+  m_GUID: a8a19261ddaa9674fa8f8832e4458b62
+  m_SerializeEntries:
+  - m_GUID: 0082e53f71ed87449ac85ebff8233911
+    m_Address: AttackSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 432f7160475ac204fbef17140ff20ee8
+    m_Address: BlockNotDisappearSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0217a5cb4fbcfa468754d9ffa598fd9
+    m_Address: StrengthSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c207bb7028c200f47ab4a3afcfe3de7f
+    m_Address: DefenseSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d757507d10c7b3b499acac181434f63a
+    m_Address: FireSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebd0b67178f5a374e9370042d47ecb63
+    m_Address: DecreaseStrengthSO
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 48d1f54ca412e1c40a5418531b933334, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 00037be3bfbc0534faf8646e2a3fb95f, type: 2}
+    - {fileID: 11400000, guid: e73aca5dc84c4a946a88e51fc5a9880b, type: 2}
